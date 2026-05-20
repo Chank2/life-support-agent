@@ -28,3 +28,8 @@ history.json
 
 # Logs
 *.log
+
+# Data
+data/expenses.csv
+data/contacts.csv
+data/todos.csv
